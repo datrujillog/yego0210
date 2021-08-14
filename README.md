@@ -57,9 +57,9 @@ Here are some ideas to get you started:
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
-</p>
+</p> -->
 
 <p align="center">
   <img src="/Diego.jpg" width="100%" title="Intro Card" alt="Intro Card">
