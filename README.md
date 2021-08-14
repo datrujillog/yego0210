@@ -1,20 +1,20 @@
-                        onst aboutMe = {
-                           code: [Javascript, Typescript, HTML, CSS, Python, Java],
-                           technologies: {
-                              frontEnd: {
-                                 js: ["Angular"],
-                                 css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
-                              },
-                              backEnd: {
-                                 java: ["Spring"],
-                                 js: ["Node", "Express"],
-                              },
-                              databases: ["MongoDB", "mySQL", "SQLServer"],
-                              mobile: ["Android", "IOS"]
-                           },
-                           currentOccupation: ["Estudiante de Ingieneria de Software"],
-                           challenge: "I'm working towards being able to run a marathon.",
-                        };
+        onst aboutMe = {
+           code: [Javascript, Typescript, HTML, CSS, Python, Java],
+           technologies: {
+              frontEnd: {
+                 js: ["Angular"],
+                 css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
+              },
+              backEnd: {
+                 java: ["Spring"],
+                 js: ["Node", "Express"],
+              },
+              databases: ["MongoDB", "mySQL", "SQLServer"],
+              mobile: ["Android", "IOS"]
+           },
+           currentOccupation: ["Estudiante de Ingieneria de Software"],
+           challenge: "I'm working towards being able to run a marathon.",
+        };
 
 
 
