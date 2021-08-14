@@ -151,11 +151,11 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/s
 
 
 ---
-### You can checkout my blogs :loudspeaker: 
+<!-- ### You can checkout my blogs :loudspeaker: 
 
 [![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=Souravdey777&type=vertical)](https://medium.com/@Souravdey777)
 
-[Add your blogs to your github profile using my Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs) 
+[Add your blogs to your github profile using my Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs)  -->
 
 ---
 
