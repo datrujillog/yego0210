@@ -161,7 +161,7 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/s
 
 Let's connect 👨‍💻 and forge the future together.😁✌
 
-**Check the Repositories and don't forget to give a star.** 👇
+**Check the Repositories and don't forget to give a star.** 👇-->
 
 :star: From [Souravdey777](https://github.com/Souravdey777)
 
@@ -170,4 +170,4 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 [youtube]: https://youtube.com/
 [instagram]: https://www.instagram.com/souravdey777/
 [linkedin]: https://www.linkedin.com/in/sourav-dey/
-[medium]: https://medium.com/@Souravdey777/ -->
+[medium]: https://medium.com/@Souravdey777/ 
