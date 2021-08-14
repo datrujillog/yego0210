@@ -164,7 +164,7 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 **Check the Repositories and don't forget to give a star.** 👇
 
 :star: From [Website:](https://devtrujillo.herokuapp.com/) <br/>
-<img src="/linkedin.png" alt=""> From [linkedin](https://www.linkedin.com/in/diego-trujillo-7004681b8)
+:star: From [linkedin](https://www.linkedin.com/in/diego-trujillo-7004681b8)
 
 [website]: https://souravdey777.github.io/Portfolio/
 [twitter]: https://twitter.com/Souravdey777
