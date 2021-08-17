@@ -167,8 +167,8 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 :star: From [linkedin](https://www.linkedin.com/in/diego-trujillo-7004681b8)
 
 [website]: https://devtrujillo.herokuapp.com/
-[twitter]: https://twitter.com/Souravdey777
-[youtube]: https://youtube.com/
-[instagram]: https://www.instagram.com/souravdey777/
-[linkedin]: https://www.linkedin.com/in/sourav-dey/
-[medium]: https://medium.com/@Souravdey777/ 
+<!-- [twitter]: https://twitter.com/Souravdey777 -->
+<!-- [youtube]: https://youtube.com/ -->
+<!-- [instagram]: https://www.instagram.com/souravdey777/ -->
+[linkedin]: https://www.linkedin.com/in/diego-trujillo-7004681b8
+<!-- [medium]: https://medium.com/@Souravdey777/  -->
