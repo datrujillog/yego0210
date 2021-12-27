@@ -14,14 +14,14 @@
            technologies: {
               frontEnd: {
                  js: ["Angular","ReactJS"],
-                 css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
+                 css: ["Materialize","Bootstrap", "Material Design",]
               },
               backEnd: {
                  java: ["Spring"],
                  js: ["NodeJS", "Express"],
               },
               databases: ["MongoDB", "mySQL", "SQLServer","PosgresSQL"],
-              mobile: ["Android", "IOS"]
+              
            },
            currentOccupation: ["Estudiante de Ingieneria de Software y Full Stack Developer"],
            challenge: "I'm working towards being able to run a marathon.",
