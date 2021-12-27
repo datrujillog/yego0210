@@ -13,17 +13,17 @@
            code: [Javascript, Typescript, HTML, CSS, Python, Java],
            technologies: {
               frontEnd: {
-                 js: ["Angular"],
+                 js: ["Angular","ReactJS"],
                  css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
               },
               backEnd: {
                  java: ["Spring"],
-                 js: ["Node", "Express"],
+                 js: ["NodeJS", "Express"],
               },
-              databases: ["MongoDB", "mySQL", "SQLServer"],
+              databases: ["MongoDB", "mySQL", "SQLServer","PosgresSQL"],
               mobile: ["Android", "IOS"]
            },
-           currentOccupation: ["Estudiante de Ingieneria de Software"],
+           currentOccupation: ["Estudiante de Ingieneria de Software y Full Stack Developer"],
            challenge: "I'm working towards being able to run a marathon.",
         };
 
