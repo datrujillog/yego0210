@@ -86,11 +86,11 @@ I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while 
                technologies: {
                   frontEnd: {
                      js: ["Angular","ReactJS"],
-                     css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
+                     css: ["Materialize","Bootstrap", "Material Design", "Semantic UI"]
                   },
                   backEnd: {
                      java: ["Spring"],
-                     js: ["Node", "Express"],
+                     js: ["NodeJs", "Express"],
                   },
                   databases: ["MongoDB", "mySQL", "SQLServer", "PostgreSQL"],
                   
