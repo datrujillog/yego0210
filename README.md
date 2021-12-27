@@ -20,8 +20,8 @@
                  java: ["Spring"],
                  js: ["NodeJS", "Express"],
               },
-              databases: ["MongoDB", "mySQL", "SQLServer","PosgresSQL"],
-              
+              databases: ["MongoDB", "mySQ              L", "SQLServer","PosgresSQL"],
+
            },
            currentOccupation: ["Estudiante de Ingieneria de Software y Full Stack Developer"],
            challenge: "I'm working towards being able to run a marathon.",
@@ -85,15 +85,15 @@ I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while 
                code: [Javascript, Typescript, HTML, CSS, Python, Java],
                technologies: {
                   frontEnd: {
-                     js: ["Angular"],
+                     js: ["Angular","ReactJS"],
                      css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
                   },
                   backEnd: {
                      java: ["Spring"],
                      js: ["Node", "Express"],
                   },
-                  databases: ["MongoDB", "mySQL", "SQLServer"],
-                  mobile: ["Android", "IOS"]
+                  databases: ["MongoDB", "mySQL", "SQLServer", "PostgreSQL"],
+                  
                },
                currentOccupation: ["Estudiante de Ingieneria de Software"],
                challenge: "I'm working towards being able to run a marathon.",
